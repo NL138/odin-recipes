@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    width: 1600px;
+    color: white
+}
+html{
+    background: linear-gradient(darkblue, purple, teal)
+}
+a{
+    text-decoration: none;
+}
+h1{
+    font-size: 100px;
+}
+#top{
+    float: left;
+    text-align: center;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+#morelink{
+    text-decoration: underline;
+}
