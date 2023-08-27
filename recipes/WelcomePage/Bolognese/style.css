@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    color: rgb(120, 181, 223);
+}
+html{
+    background: linear-gradient(darkblue, purple, teal)
+}
+a{
+    text-decoration: none;
+}
+h1{
+    font-size: 100px;
+}
+#top{
+    text-align: center;
+}
+#TimeTitles{
+    color: rgb(43, 168, 141);
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+#morelink{
+    text-decoration: underline;
+}
+#middle{
+    background-color: rgba(69, 69, 69, 0.3);
+}
+#bottom{
+        background-color: rgba(69, 69, 69, 0.3);
+}
