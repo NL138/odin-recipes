@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    color: rgb(120, 181, 223);
+}
+html{
+    background-color: bisque;
+}
+h1{
+    font-size: 65px;
+}
+body #morelink{
+        color: rgb(10, 10, 43);
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    height: 300px;
+    width: 250px;
+}
+#BurgerBites,#EggBites,#Bolognese{
+    float: left;
+    padding: 20px;
+    width: 380px;
+    margin: 15px;
+    padding-right: 60px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgba(69, 69, 69, 0.2);
+    border: 3px solid rgba(69, 69, 69, 0.1);
+}
+.WelcomeBar{
+    font-family: 'Phudu', cursive, sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    color: white;
+    text-align: center;
+}
