@@ -1,21 +1,19 @@
 *{
     box-sizing: border-box;
-    color: rgb(120, 181, 223);
+
 }
 html{
-    background-color: bisque;
+    background-color: #6d8ea0;
 }
 h1{
     font-size: 65px;
-}
-body #morelink{
-        color: rgb(10, 10, 43);
 }
 ul{
     list-style-type: none;
 }
 a{
     text-decoration: none;
+    color: #182825;
 }
 img{
     height: 300px;
@@ -23,13 +21,14 @@ img{
 }
 #BurgerBites,#EggBites,#Bolognese{
     float: left;
-    padding: 20px;
     width: 380px;
     margin: 15px;
-    padding-right: 60px;
+    padding-right: 40px;
     font-weight: bold;
+    font-size: 30px;
+    color: #182825;
     text-align: center;
-    background-color: rgba(69, 69, 69, 0.2);
+    background-color: #afa98d;
     border: 3px solid rgba(69, 69, 69, 0.1);
 }
 .WelcomeBar{
@@ -37,4 +36,5 @@ img{
     font-family: 'Source Code Pro', monospace;
     color: white;
     text-align: center;
+    color: #182825;
 }

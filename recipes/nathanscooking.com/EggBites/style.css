@@ -1,12 +1,12 @@
 *{
     box-sizing: border-box;
-    color: rgb(120, 181, 223);
 }
 html{
-    background: linear-gradient(darkblue, purple, teal)
+    background-color: #6d8ea0;
 }
 a{
     text-decoration: none;
+    color: #016fb9;
 }
 h1{
     font-size: 75px;
@@ -19,7 +19,7 @@ p{
     text-align: center;
 }
 #TimeTitles{
-    color: rgb(43, 168, 141);
+    color: #22aed1;
 }
 img{
     height: 400px;
@@ -27,10 +27,11 @@ img{
 }
 #morelink{
     text-decoration: underline;
+    color: #afa98d;
 }
 #middle{
-    background-color: rgba(69, 69, 69, 0.3);
+    background-color: rgb(175, 169, 141, .3);
 }
 #bottom{
-        background-color: rgba(69, 69, 69, 0.3);
+    background-color: rgb(175, 169, 141, .3);
 }
